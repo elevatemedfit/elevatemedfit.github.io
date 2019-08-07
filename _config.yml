@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Junker
-title: 
+title: Flatiron Project 1 - CLI Data Gem Portfolio Project.
 header-img: img/home-bg.png
 email: elevatemedfit@gmail.com
 copyright_name: Chris Junker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Panic, Doubt, Success!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  elevatemedfit
