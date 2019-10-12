@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Final Project – Under the Hood "
-date:       2019-10-12 15:57:54 +0000
+date:       2019-10-12 11:57:55 -0400
 permalink:  sinatra_final_project_under_the_hood
 ---
 
